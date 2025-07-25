@@ -6,7 +6,7 @@ permalink: #
 excerpt: 'Memory modeling, $$E=mc^2$$'
 date: 2025-05-15
 venue: 'GitHub Journal of Bugs'
-paperurl: 'https://github.com/Qirong-Chen/qrchen.github.io/files/KDD2025.pdf'
+paperurl: '[https://github.com/Qirong-Chen/qrchen.github.io/files/KDD2025.pdf](https://github.com/Qirong-Chen/qrchen.github.io/blob/master/files/KDD2025.pdf)'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
