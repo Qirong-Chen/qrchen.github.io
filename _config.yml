@@ -34,7 +34,13 @@ author:
   # Academic websites
   googlescholar    : "https://scholar.google.com.hk/citations?user=TKg6kr0AAAAJ&hl=zh-CN"
   orcid            : "https://orcid.org/0009-0000-6552-5877"
-
+  academia         : # URL
+  arxiv            : # URL - Update with the correct link to your profile
+  impactstory      : # URL
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
 
 
   # Repositories and software development
