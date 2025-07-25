@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Qirong Chen"
 title_separator          : "-"
 name                     : &name "Qirong Chen"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "https://qirong-chen.github.io/qrchen.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/profile.png"
+  name             : "Qirong Chen"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "China"
